@@ -1,0 +1,773 @@
+Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+
+Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
+
+"PROJECT MANAGEMENT GUIDELINES
+HƯỚNG DẪN CÁC ĐIỂM CẦN LƯU Ý TRONG CÔNG TÁC QUẢN LÝ CÔNG TRÌNH"					
+Step 1: Receive project documents					
+Bước1:Tiếp nhận hồ sơ công trình					
+Tender Dept. hands over the project won the bid to Construction Dept.					
+Bộ phận dự toán bàn giao công trình đã trúng thầu cho Bộ phận thi công.					
+Hand-over documents include:					
+Hồ sơ bàn giao gồm có:					
+
+1	"Contract with customer
+Hợp đồng với khách hàng"
+2	"Committed schedule with customer
+Tiến độ cam kết với khách hàng"
+3	"Up-to-date drawings for tendering or shop drawings (if any)
+Bản vẽ dự thầu cập nhật mới nhất hoặc bản vẽ cho 
+thi công (nếu có)"
+4	"Detailed quotation
+Bảng báo giá chi tiết"
+5	"Materials sample for tendering
+Bảng mẫu vật liệu nộp thầu"
+6	"A list of detailed volume
+Bảng kê khối lượng chi tiết"
+7	"Documents exchanged between the company & customer during and after submitting the tender
+Các văn bản trao đổi giữa công ty và khách hàng trong và sau khi nộp thầu"
+8	"Other remarks not included in the drawings
+Các ghi chú khác không có trong bản vẽ."
+
+Step 2: Study project documents					
+Bước 2: Nghiên cứu hồ sơ công trình					
+Study preliminarily project documents; pay attention to the following points:					
+Nghiên cứu sơ bộ hồ sơ công trình, chú ý các điểm sau:					
+2.1 Assess construction items: 					
+     Đánh giá các hạng mục thi công:					
+"1. The most difficult item about techniques (high requirements about techniques, aesthetics, use of strange
+ materials or item with extremely high unit price)"					
+"    Hạng mục khó nhất về kỹ thuật (đòi hỏi cao về kỹ thuật, mỹ thuật, sử dụng vật liệu lạ hoặc hạng mục có
+ đơn giá rất cao)"					
+2. The largest volume item (usually also the highest total value item)					
+    Hạng mục có khối lượng lớn nhất (thường cũng là hạng mục có tổng giá trị cao nhất)					
+3. Item using time the most (need multiple stages, relating to structure or to imported materials)					
+    Hạng mục cần nhiều thời gian nhất (Cần nhiều công đoạn, liên quan đến kết cấu hoặc liên quan tới hàng nhập khẩu)					
+4. Studying specifications and other required documents.					
+    Nghiên cứu specification và các tài liệu yêu cầu khác.					
+2.2 Assess materials demand      					
+     Đánh giá nhu cầu vật tư					
+1. Strange materials that never seen before					
+     Vật tư lạ chưa từng gặp					
+2. Materials required with large numbers					
+     Vật tư cần với số lượng lớn					
+3. Materials required to be imported					
+     Vật tư phải nhập khẩu					
+4. Expensive materials					
+     Vật tư đắt tiền					
+2.3 Assess manpower demand      					
+      Đánh giá nhu cầu nhân lực					
+1. Which item HTB will do itself 					
+    Hạng mục nào HTB sẽ tự làm					
+2. Which item HTB proposes to assign to familiar sub-contractors					
+    Hạng mục nào dự kiến giao cho các thầu phụ quen thuộc					
+3. Which item HTB has to look for new sub-contractors					
+    Hạng mục nào phải tìm kiếm thầu phụ mới					
+4. Make an expection about manpower demand based on the above result					
+    Từ kết quả trên đưa ra dự kiến nhu cầu về nhân lực					
+2.4 Assess overall schedule of the project      					
+      Đánh giá tiến độ tổng quát của công trình					
+From the above analysis, we can provide comments on construction schedule committed to client:					
+Từ những phân tích kể trên có thể đưa ra nhận xét về tiến độ thi công đã cam kết với khách hàng:					
+1. Is overall schedule realizable?					
+    Tiến độ chung có khả thi không? 					
+2. Are there any problems possible?					
+    Có thể có vấn đề nào?					
+3. What special solution is needed?					
+    Cần có giải pháp đặc biệt gì?					
+4. If the schedule isn’t realizable, how do we negotiate with the customer?					
+    Nếu tiến độ không khả thi thì đàm phán với khách hàng như thế nào?					
+					
+Step 3: Take over project ground					
+Bước 3: Nhận bàn giao mặt bằng công trình					
+1. Acceptance of 3-arm hand over by: the owner, client and HTB.					
+    Nhận bàn giao tay 3: Chủ nhà, khách hàng và HTB. 					
+2. Check and record (text or pictures) all damages available, the equipment not installed, the number of differences 					
+    between the current drawings and the hand-over minutes. Receive and manage entry keys (if any) from the client.					
+    Store the original hand-over minutes in original documents of the project.					
+    Kiểm tra và ghi nhận (văn bản hoặc hình chụp) những hư hỏng đã có sẵn, những thiết bị chưa lắp đặt, số lượng khác biệt với bản vẽ 					
+    hiện trạng vào biên bản bàn giao. Nhận và quản lý chìa khóa cửa ra vào công trình (nếu có) từ chủ đầu tư. Chuyển biên bản bàn giao 					
+    bản chính về lưu trữ trong hồ sơ gốc của công trình.					
+3. Write out name, position, telephone, email of all persons involved in the project: the owner, client, consultant, etc.					
+    Ghi nhận tên, chức vụ, điện thoại, email liên lạc của tất cả những người có liên quan đến công trình: phía chủ nhà, chủ đầu tư, tư  vấn 					
+    thiết kế, v.v..					
+4. Determine weekly meeting date with the owner, client, consultant.					
+    Xác định ngày họp công trình hàng tuần với chủ nhà, chủ đầu tư, tư vấn thiết kế.					
+5. Define the exact address of the project for later delivery not to be in trouble. If it is difficult finding out the address, 					
+    draw the location map and store in project documents and notify the Construction Management Dept.					
+    Xác định địa chỉ chính xác của công trình để cho việc giao hàng sau này không bị trục trặc. Nếu địa chỉ khó tìm thì nên vẽ bản đồ 					
+    vị trí và lưu vào hồ sơ công trình và thông báo cho Phòng quản lý thi công.					
+6. Specify location and size of hoists taking materials, workers. Learn about the time conditions, procedures, protection, 					
+    cleaning and cost to pay for using hoists.					
+    Xác định vị trí & kích thước thang máy chở hàng, chở người. Tìm hiểu các điều kiện về giờ giấc, thủ tục, bảo vệ, vệ  sinh và chi phí 					
+    phải đóng để sử dụng thang máy chở hàng & chở người. 					
+7. Specify location and size of stairs, emergency stairs. 					
+    Xác định vị trí & kích thước thang bộ, thang thoát hiểm.					
+8. Determine the location of power, water supply for construction. Learn about the rules and cost of using power, 					
+    water as well as processes, procedures for official connection to the system when the project is finished. 					
+    Xác định vị trí cung cấp nguồn điện, nước phục vụ thi công. Tìm hiểu qui định & chi phí sử dụng điện nước phục vụ  thi công cũng như 					
+    qui trình, thủ tục đấu nối chính thức vào hệ thống khi hoàn tất công trình.					
+9. Locate the main CB for closing and switching off power at construction area, water supply valve position.					
+    Xác định vị trí CB tổng đóng & ngắt điện cho khu vực thi công, vị trí van cấp nước.					
+10. Define the fire alarms, fire hose cabinets or fire extinguishers. Find out the specific regulations of the owner in fire 					
+    and safety at work.					
+    Xác định vị trí báo cháy, tủ đựng vòi nước chữa cháy hoặc bình chữa cháy. Tìm hiểu các qui định cụ thể của chủ nhà trong việc phòng 					
+    chống cháy nổ và an toàn lao động.					
+11. Read alarm plan, co-ordinate fire fighting and emergency exit road from the location of construction if there is any 					
+    incident about fire occurs or emergency evacuation from the field.					
+    Tìm hiểu phương án báo động, phối hợp chữa cháy và đường thoát hiểm khỏi vị trí thi công nếu có xẩy ra sự cố cháy nổ hoặc khi 					
+    phải di tản khẩn cấp ra khỏi công trường.					
+					
+Step 4: Working preparation					
+Bước 4: Chuẩn bị cho thi công					
+1. Identify effective insurance for project, workers.					
+    Xác định bảo hiểm công trình, bảo hiểm công nhân đã có hiệu lực.					
+2. Learn the procedures for registration of workers, materials in - out the construction site.					
+    Tìm hiểu thủ tục đăng ký công nhân, vật tư ra vào công trường.					
+3. Prepare a list of workers, worker cards and uniforms.					
+    Chuẩn bị danh sách công nhân, thẻ công nhân, đồng phục.					
+4. Prepare fire prevention equipment.					
+    Chuẩn bị trang thiết bị phòng chống cháy nổ.					
+5. Prepare occupational safety equipment, emergency medicine cabinets.					
+    Chuẩn bị trang thiết bị an toàn lao động, tủ thuốc cấp cứu.					
+6. Guide disciplinary regulations for workers and subcontractors.					
+    Hướng dẫn nội qui kỷ luật cho công nhân và thầu phụ.					
+7. Guide exit way and handling processes of fire incident for foremen, vice-foremen, workers and subcontractors.					
+    Hướng dẫn hướng thoát hiểm và qui trình xử lý khi có sự cố cháy nổ cho tổ trưởng, tổ phó, công nhân và các thầu phụ.					
+8. Determine size & location to hang company’s sign & project details.					
+    Xác định vị trí & kích thước nơi treo bảng hiệu công ty & chi tiết công trình.					
+9. Specify time & suitable means of transport to carry materials to construction site. 					
+    Xác định thời gian & phương tiện thích hợp để vận chuyển vật tư đến công trường.					
+10. Define transport methods and location to gather materials at construction site.					
+    Xác định phương án vận chuyển & vị trí tập kết vật tư tại nơi thi công.					
+11. Check actual size of the ground whether it matches the drawings.					
+    Kiểm tra kích thước mặt bằng thực tế xem có khớp với bản vẽ thi công.					
+12. Establish detailed construction schedule.					
+    Lập tiến độ thi công chi tiết.					
+13. Devide work into packages.					
+    Lập các gói phân chia công việc.					
+14. Set up budget value for each package.					
+    Lập Ngân sách định mức cho từng gói công việc.					
+15. Establish ordering plan and materials controlling schedule.					
+    Lập kế hoạch đặt hàng và tiến độ kiểm soát vật tư.					
+16. Set up plan and submission schedule of materials samples and shop drawings for approval.					
+    Lập kế hoạch và tiến độ trình mẫu vật tư và shop drawing trình duyệt.					
+17. Make and prepare project management forms.					
+    Lập và chuẩn bị các forms quản lý công trình:					
+a/ Manage and save project information.					
+    Quản lý thông tin và cách lưu thông tin dự án.					
+b/ Manage design changes.					
+    Quản lý thay đổi thiết kế.					
+c/ Manage variation orders - VO					
+    Quản lý Phát sinh –VO.					
+d/ Weekly report.					
+    Báo cáo tuần.					
+					
+Step 5: Construction deploy					
+Bước 5: Triển khai thi công					
+Deploy at constrution site					
+Triển khai tại công trường					
+1. Set-out at site according to shop drawings.					
+    Định vị & set-out thực tế theo bản vẽ thi công.					
+2. Record and report all differences in size on the drawings. Highlight the sizes different with the drawings. Send the report 					
+    immediately to the Construction Management Dept., Client and Designer. Study and propose the solutions if possible.					
+    Ghi nhận rõ ràng và báo cáo tất cả những sai biệt kích thước trên bản vẽ. Tô màu những kích thước khác biệt so với  bản vẽ. Gởi 					
+    bản báo cáo ngay cho Phòng quản lý thi công, chủ đầu tư và thiết kế. Nghiên cứu & đề xuất hướng giải quyết nếu có thể.					
+3. Require M&E subcontractor to check the current condition of technical systems and report differences with the drawings 					
+    to HTB. Send the report immediately to the Construction Management Dept., Client and Designer. Require M&E 					
+    subcontractor to study, propose the solutions if possible.					
+    Yêu cầu thầu phụ M&E kiểm tra hiện trạng của các hệ thống kỹ thuật và báo cáo cho HTB những khác biệt, vấn đề so với bản vẽ. 					
+    Gởi bản báo cáo ngay cho Phòng quản lý thi công, chủ đầu tư và thiết kế. Yêu cầu thầu phụ M&E nghiên cứu, đề xuất hướng giải quyết 					
+    nếu có thể. 					
+4. Survey details of current condition in comparison with the drawings. Record unsuitable, unclear details to make RFI (Request for 					
+    Information) and send to Construction Management of the client.					
+    Khảo sát chi tiết hiện trạng so với bản vẽ. Ghi nhận những chi tiết không phù hợp, chưa rõ ràng để làm thành các RFI (Request for 					
+    Information) gởi cho Quản lý công trình của khách hàng.					
+5. Calculate the demand for materials; make procedures requiring materials to be supplied and determine the schedule and time to 					
+    deliver materials suitably.					
+    Tính toán nhu cầu vật tư, làm thủ tục yêu cầu cung cấp vật tư và xác định tiến độ & thời điểm giao hàng cho phù hợp với tiến độ triển 					
+    khai thi công.					
+6. Devide the work specifically to HTB groups, teams.					
+    Phân công công việc cụ thể cho các tổ, đội công nhân HTB. 					
+7. Select suitable subcontractors for the project (Read the process of subcontractor selection). Notify construction management 					
+    dept. to make purchasing order (PO). Hold a meeting and assign the work specifically to subcontractors.					
+    Chọn lựa các thầu phụ phù hợp cho công trình. (Xem qui trình chọn lựa thầu phụ) Báo Phòng quản lý thi công làm PO đặt hàng.					
+    Tổ chức họp và phân công công việc cụ thể cho các thầu phụ. 					
+8. Hold and preside a meeting between HTB, carpentry workshop and the whole relevant subcontractors to agree:					
+    Tổ chức & chủ tọa các cuộc họp giữa HTB, xưởng mộc và toàn thể các thầu phụ liên quan để thống nhất:					
+    a. Overall schedule of the project.					
+        Tiến độ thi công chung của công trình.					
+    b. Detailed schedule of each subcontractor.					
+        Tiến độ chi tiết của từng thầu phụ.					
+    c. Co-ordinate schedule of complicated work related to multiple subcontractors.					
+        Tiến độ phối hợp các phần việc phức tạp có liên quan tới nhiều thầu phụ. 					
+    d. Main work method statements.					
+        Các biện pháp thi công chính.					
+    e. Principles of communication, problem report, variation handling.					
+        Các nguyên tắc liên lạc, báo cáo vấn đề, giải quyết phát sinh.					
+    f. Date of weekly meeting to solve the difficulties during construction.					
+       Ngày họp hàng tuần để giải quyết các khó khăn trong quá trình thi công.					
+9. Establish detailed schedule based on tender schedule and results discussed in item 8. Deploy working schedule to all related parties. 					
+    Post the overall schedule at the project for the parties to reference and implement.					
+    Lập bảng tiến độ chi tiết dựa trên bản tiến độ dự thầu và kết quả thảo luận ở mục 8. Triển khai tiến độ thi công cho tất cả các bên 					
+    có liên quan. Niêm yết bản tiến độ chung tại công trường cho các bên tham khảo và thi hành.					
+10. Provide latest shop drawings stamped "For Construction" and date for construction groups, teams and relevant subcontractors. 					
+    Take back old invalid drawings to prevent mistakes during construction. Control changes; update all drawings for the project and 					
+    relevant subcontractors (See process of drawing management).					
+    Cung cấp các bản vẽ thi công mới nhất có đóng dấu “For Construction” và dấu ngày cho các tổ, đội thi công và các thầu phụ liên quan. 					
+    Thu hồi các bản vẽ cũ không còn giá trị để tránh nhầm lẫn khi thi công. Luôn có bộ bản vẽ thi công cập nhật, sạch sẽ,  rõ ràng, có 					
+    đóng dấu đầy đủ để sử dụng suốt quá trình thi công. Quản lý việc thay đổi, cập nhật toàn bộ bản vẽ cho công trường và cho các thầu 					
+    phụ liên quan. (Xem qui trình quản lý bản vẽ)					
+11. Prepare shop drawings for:					
+    Chuẩn bị các bản vẽ shop drawing cho:					
+    a. Details for gypsum board partition, glass partition, decorative partition, gypsum board ceiling, decorative ceiling.					
+        Phần chi tiết vách thạch cao, vách kính, vách trang trí, trần thạch cao, trần trang trí					
+    b. Details for door.					
+        Phần chi tiết cửa					
+    c. Details for furniture.					
+        Phần chi tiết đồ mộc					
+12. Prepare all samples of materials, colors for approval. Create "Materials Submission" form for each sample to send to the Client/					
+    Consultant for approval.					
+    Chuẩn bị tất cả các mẫu vật liệu, mẫu mầu đễ duyệt. Mỗi mẫu vật liệu nên làm thành 1 form “Materials Submission” gởi cho chủ 					
+    đầu tư/ tư vấn thiết kế để duyệt.					
+13. Manage construction quality of HTB workers, carpentry workshop and subcontractors. Co-ordinate with quality management 					
+    section of Construction Dept. to check periodically, assess construction quality and give methods to remedy unsatisfactory items.					
+    Quản lý chất lượng thi công của công nhân HTB, xưởng mộc và toàn bộ các thầu phụ. Phối hợp với bộ phận quản lý chất lượng 					
+    của Phòng thi công để định kỳ kiểm tra, đánh giá chất lượng thi công và có các biện pháp sửa chữa các hạng mục không đạt yêu cầu.					
+    Trong quá trình thi công nếu có những khó khăn về kỹ thuật, vật liệu làm ảnh hưởng  đến chất lượng thi công thì phải báo cáo ngay 					
+    lên cấp trên để được hướng dẫn xử lý.					
+14. Manage the overall schedule. Follow and update the actual schedule weekly in comparison with the overall schedule to have 					
+    a rectification solution when there is a sign of delaying the schedule or the whole project. Immediately report to Management  Board 					
+   when there is a possibility of delaying schedule without having a direction to overcome.					
+    Quản lý tiến độ thi công chung. Theo dõi và cập nhật tiến độ thực tế hàng tuần so với tiến độ chung để có hướng khắc phục khi có 					
+    biểu hiện trễ tiến độ cục bộ hoặc toàn công trình. Báo cáo ngay lên cấp trên khi có khả năng trễ tiến độ  mà chưa có hướng khắc 					
+    phục.					
+15. Manage project costs, including costs of manpower, materials & subcontractors. Update weekly costs of the project and 					
+    report on Construction Management Dept. following form (See project cost report form).					
+    Quản lý chi phí công trình bao gồm chi phí nhân công, chi phí vật tư và chi phí thầu phụ. Cập nhật chi phí công trình hàng tuần và 					
+    báo cáo về Phòng quản lý thi công theo mẫu. (Xem mẫu báo cáo chi phí công trình)					
+16. Totally assess the project after finishing to draw experience from strengths and weaknesses.					
+    Đánh giá toàn diện công trình khi hoàn thành để rút kinh nghiệm các ưu khuyết điểm.					
+Materials supply					
+Cung cấp vật tư: 					
+1. Calculate the volume of materials to be purchased & imported. Calculate the exact amount (including losses) to specific 					
+    measurement unit of materials like board, item, etc. Avoid general measurement units like m2 for possible differences  when 					
+   converting.					
+    Tính toán khối lượng các loại vật tư cần mua & nhập khẩu. Cần tính số lượng chính xác (kể cả hao hụt) đến đơn vị đo  lường cụ thể 					
+    của mặt hàng như tấm, cái. Tránh các đơn vị đo lường chung chung như m2 vì có khả năng chênh lệch khi qui đổi. 					
+2. Check prices and quantities left in stock of the suppliers.					
+    Kiểm tra giá và số lượng còn tồn kho của các nhà cung cấp.					
+3. Compare purchasing price and tender price.					
+    So sánh giá mua và giá dự thầu.					
+4. Select suppliers based on their abilities to best satisfy the above requirements.					
+    Chọn nhà cung cấp dựa trên khả năng đáp ứng tốt nhất các yêu cầu trên.					
+5. Approve samples with the Client.					
+    Duyệt mẫu với khách hàng					
+6. Local materials: make PO. PO should clarify:					
+    Vật tư mua trong nước: làm PO đặt hàng. PO cần làm rõ:					
+a. Codes, quantities, sizes, specifications, colors , types of materials.					
+    Mã số, số lượng, kích thước, qui cách, màu sắc, chủng loại hàng hóa.					
+b. Methods, periods of payment. Warranty conditions, if any.					
+    Hình thức, thời điểm thanh toán. Điều kiện bảo hành nếu có.					
+c. Delivery address and receiver.					
+    Địa chỉ giao hàng & người nhận hàng					
+d. Responsible person and contact telephone number of both parties in case of problems.					
+    Người chịu trách nhiệm và số điện thoại liên lạc của cả hai bên trong trường hợp có vấn đề 					
+e. Specific time for each delivery.					
+    Thời gian giao hàng cụ thể cho từng đợt giao hàng.					
+f.  Penalty clauses for breach of the above mentioned terms.					
+    Các điều khoản phạt nếu có vi phạm các điều khoản kể trên.					
+7. Imported materials: import contract should clarify:					
+    Vật tư nhập khẩu: Khi làm hợp đồng nhập khẩu cần làm rõ:					
+a. Time to complete the contract including production time + shipping time to Vietnam ports + time for customs procedures and 					
+    obtaining goods + deilivery time to the project.					
+    Thời gian hoàn thành hợp đồng bao gồm thời gian sản xuất + thời gian vận chuyển đến cảng Việt nam + thời gian làm thủ tục hải  quan 					
+   và lấy hàng + thời gian giao hàng đến công trường.					
+b. Imported methods: FOB, CIF, CF, DDP, etc.					
+    Hình thức nhập khẩu: FOB, CIF, CF, DDP, v.v.					
+c. Methods & periods of payment, foreign currency for payment, payment rates.					
+    Hình thức & thời điểm thanh toán, ngoại tệ thanh toán, tỉ giá thanh toán.					
+d. Risk assurance methods for the shipment. Clarify the responsible party when risks happen and necessary procedures to be 					
+    compensated if HTB is the beneficiary.					
+    Phương pháp bảo hiểm rủi ro cho lô hàng. Làm rõ bên chịu trách nhiệm khi có rủi ro xảy ra & thủ tục cần thiết để được bồi thường 					
+    nếu HTB là bên thụ hưởng.					
+e. The import-export documentation required according to Vietnamese regulations to enjoy preferential tariffs (if any) and to be 					
+    able to complete customs procedures in order to receive the shipment.					
+    Các chứng từ XNK cần có theo qui định Việt Nam để được hưởng thuế xuất ưu đãi (nếu có ưu đãi) và để có thể hoàn tất thủ tục 					
+    hải quan để nhận được lô hàng					
+8. Follow the schedule of implementation and delivery. Report the specific delivery schedule on the project for saving or providing 					
+    to the Client when required.					
+   Theo dõi tiến độ thực hiện & giao hàng. Làm báo cáo lịch giao hàng cụ thể đến công trường để lưu hoặc cung cấp cho chủ đầu tư 					
+    khi có yêu cầu.					
+Subcontractor selection process and principles to work with subcontractors					
+Qui trình chọn thầu phụ và nguyên tắc làm việc với thầu phụ					
+1. Based on the hand-over documents from tender dept., preliminarily select suitable subcontractors based on their capacilities 					
+    and unit prices.					
+    Dựa theo hồ sơ bàn giao từ bộ phận dự toán, chọn lựa sơ bộ các nhà thầu phụ phù hợp dựa theo khả năng và đơn giá. 					
+2. Hold a meeting with Tender Dept. and Construction Management Dept. to clarify the volume, details and schedule.					
+    Tổ chức họp với Phòng dự toán & Phòng Quản lý thi công để làm rõ khối lượng, chi tiết & tiến độ.					
+3. Require subcontractors to survey and report back to the exact price & details of both volume, price and schedule as a basis of					
+    selecting subcontractors.					
+    Yêu cầu thầu phụ khảo sát & báo giá lại cho chính xác & chi tiết về cả khối lượng, giá cả và tiến độ để làm cơ sở chọn thầu phụ.					
+4. Negotiate price and contract articles about quality, schedule and payment conditions.					
+    Thương lượng giá và các điều khoản hợp đồng về chất lượng, tiến độ và điều kiện thanh toán.					
+5. Establish the assessment sheet of subcontractors. Base on this assessment, propose to select subcontractors and transfer 					
+    to Construction Management Dept.					
+    Làm bản đánh giá thầu phụ. Dựa trên bản đánh giá này đề xuất chọn thầu phụ chuyển Phòng Quản lý thi công.					
+6. Construction Management Dept. makes PO & advanced payment documents. PO should clarify:					
+    Phòng Quản lý thi công làm PO & hồ sơ tạm ứng. PO cần làm rõ:					
+a. Item codes, quantities, sizes, specifications, colors, types.					
+    Mã số hạng mục, số lượng, kích thước, qui cách, màu sắc, chủng loại.					
+b. Methods, periods of payment. Warranty conditions, if any.					
+    Hình thức, thời điểm thanh toán. Điều kiện bảo hành nếu có.					
+c. Address & location of the project.					
+    Địa chỉ và vị trí công trình.					
+d. Responsible person and contact telephone number of both parties in case of problems.					
+    Người chịu trách nhiệm và số điện thoại liên lạc của cả hai bên trong trường hợp có vấn đề 					
+e. Working schedule must comply with the overall schedule of the project.					
+    Tiến độ công việc phải tuân theo tiến độ chung của công trình.					
+f.  Subcontractors are responsible for checking actual size prior to production and installation.					
+    Thầu phụ chịu trách nhiệm kiểm tra kích thước thực tế trước khi tiến hành sản xuất, lắp đặt. 					
+g. Submit samples and shop drawings for approval prior to production.					
+    Phải nộp mẫu và bản vẽ shop drawing và được duyệt trước khi sản xuất.					
+h. Penalty clauses for breach of the above mentioned terms.					
+    Các điều khoản phạt nếu có vi phạm các điều khoản kể trên.					
+Because PO has only one page, onlpy record specific information related to the project. General commitment terms should be 					
+made in an annex or open contract worth for PO of difference projects.					
+Do PO chỉ có 1 trang nên chỉ ghi nhận các thông tin cụ thể liên quan đến công trình. Các điều khoản cam kết chung nên lập thành 					
+bản phụ lục hoặc thành hợp đồng mở có giá trị cho nhiều PO thuộc nhiều công trình khác nhau.					
+7. Notify Construction Management Dept. the list of selected subcontractors and scope of works of each subcontractor.					
+    Thông báo cho Phòng Quản lý thi công danh sách các thầu phụ được chọn & phạm vi công việc của từng thầu phụ.					
+8. Require subcontractors to provide a list of workers on the field, provide related insurance documents, provide commitment schedule.					
+    Yêu cầu thầu phụ cung cấp danh sách công nhân để làm thủ tục ra vào công trường, cung cấp hồ sơ bảo hiểm liên quan, cung cấp 					
+   bản tiến độ cam kết.					
+9. Require subcontractors to comply with project regulations about discipline, order, uniform.					
+    Yêu cầu các thầu phụ tuân thủ nội qui công trường về kỷ luật, trật tự, qui định về đồng phục.					
+10. Provide project regulation sheet and methods for handling violation. Require subcontractors to sign for confirmation.					
+    Cung cấp bản nội qui công trường và biện pháp xử lý vi phạm. Yêu cầu thầu phụ ký xác nhận tuân thủ.					
+11. Require subcontractors to comply with the overall schedule of the project; do not deploy installation before schedule 					
+    without HTB's permission.					
+    Yêu cầu các thầu phụ tuân thủ theo tiến độ chung của công trình, không được phép triển khai lắp đặt trước tiến độ mà không có 					
+    phép của HTB.					
+12. Require subcontractors to have effective methods to protect the items installed. If subcontractors do not comply with, 					
+    HTB will carry out protection and deduct money to be paid to subcontractors.					
+    Yêu cầu các thầu phụ có biện pháp hiệu quả để bảo vệ các hạng mục đã lắp đặt. Nếu thầu phụ không tuân thủ thì HTB sẽ thực hiện 					
+    việc bảo vệ và trừ vào khoản tiền phái thanh toán cho thầu phụ.					
+13. Provide the latest drawings stamped " For Construction" & date to subcontractors.					
+    Cung cấp bản vẽ thi công mới nhất có đóng dấu “For Construction” và dấu ngày cho thầu phụ.					
+14. Coordinate with subcontractors in processes of deploying production & installation at the project in a spirit of cooperation, assistance,					
+     creating best conditions and quickly solving difficulties. Each party is responsible for coordinating with each other to complete the 					
+     project on time with high quality. 					
+    Phối hợp với thầu phụ trong quá trình triển khai sản xuất và lắp đặt tại công trình trên tinh thần hợp tác, giúp đỡ, tạo  điều kiện tốt nhất 					
+    và nhanh chóng tháo gỡ các khó khăn gặp phải. Mỗi bên phải có trách nhiệm trong việc phối hợp với nhau vì mục đích chung là hoàn 					
+    tất công trình với chất lượng cao và kịp tiến độ.					
+15. Coordinate with subcontractors in submitting samples & shop drawings for approval.					
+    Phối hợp với thầu phụ trong việc nộp mẫu và bản vẽ shop drawing để duyệt với khách hàng.					
+16. Sign to approve shop drawings of subcontractors so that they can deploy production.					
+    Ký duyệt bản vẽ shop drawing của thầu phụ để thầu phụ có thể triển khai sản xuất.					
+17. Require subcontractors to make actual samples at the site to check the method statements as well as evaluate the quality, speed 					
+    and also difficulties that can arise before mass deployment.					
+    Yêu cầu thầu phụ làm mẫu thực tế tại công trường để kiểm tra cách thức thực hiện cũng như đánh giá về chất lượng, tốc độ cũng 					
+    như các khó khăn có thể nảy sinh trước khi triển khai hàng loạt. 					
+18. Hold weekly meetings with subcontractors to check the working schedule, clarify the details, answer questions, discuss methods 					
+    for solving arised difficulties, methods for coordinating between subcontractors as well as with HTB.					
+    Tổ chức các cuộc họp hàng tuần với thầu phụ để kiểm tra tiến độ thực hiện, làm rõ các chi tiết, giải đáp các thắc mắc, bàn các biện 					
+    pháp giải quyết các khó khăn nảy sinh, bàn các biện pháp phối hợp giữa các thầu phụ cũng như với HTB					
+19. When difficulties exceed the ability or authority for handling, propose to Management Board for help.					
+    Khi có khó khăn vượt quá khả năng hoặc thẩm quyền giải quyết thì đề xuất lên cấp trên để hỗ trợ giải quyết.					
+20. When the project is completed, draw the balancesheet documents with subcontractors about the volume of the work done, consider 					
+    and approve for variations & deduct, if any. The balancesheet must attach all approved variations (See variations with subcontractors).					
+    Khi hoàn tất công trình thì làm hồ sơ quyết toán với thầu phụ về khối lượng công việc đã thực hiện, xem xét và phê duyệt các khỏan 					
+    phát sinh và giảm trừ nếu có. Bản quyết toán phải đính kèm tất cả các phát sinh đã được duyệt. (Xem Phát sinh với thầu phụ)					
+21. Establish an evaluation sheet for subcontractors about quality, schedule, coordination ability and unit price as a basis of using 					
+    subcontractors for other projects in the future.					
+    Làm bảng đánh giá thầu phụ về các mặt: chất lượng, tiến độ, khả năng phối hợp và giá thành để làm cơ sở cho việc sử dụng thầu phụ 					
+   cho các công trình khác trong tương lai.					
+Variations with subcontractors					
+Phát sinh với thầu phụ:					
+1. When there are variations with subcontractors as required by the Client or HTB, provide ralated VO (SI) for subcontractors 					
+    to base on for quoting variations. 					
+    Khi có phát sinh với thầu phụ do yêu cầu từ khách hàng hoặc do yêu cầu của HTB, cần cấp cho thầu phụ VO (SI)  liên quan để 					
+    thầu phụ làm căn cứ báo giá phát sinh.					
+2. VO (SI) provided by HTB should specify item, specification, quantity and required time for completion.					
+    VO (SI) do HTB cấp cần ghi rõ hạng mục, qui cách, số lượng và thời gian yêu cầu hoàn thành.					
+3. Quotation for variations of subcontractors must include: detailed volume sheet, related drawings, quotation, copy VO provided by 					
+    HTB.					
+    Báo giá phát sinh của thầu phụ cần bao gồm: Bảng kê khối lượng chi tiết, Bản vẽ liên quan, Bản báo giá, copy VO do HTB cấp.					
+4. Principles for quoting variations of subcontractors are similar to principles for quoting with client.					
+    Nguyên tắc báo giá phát sinh của thầu phụ tương tự như nguyên tắc báo giá phát sinh với khách hàng.					
+5. Assess variations of subcontractors about unit prices as well as time. Negotiate and approve the volume and/or unit prices.					
+    Đánh giá phát sinh của thầu phụ về đơn giá cũng như thời gian. Thương lượng và duyệt phát sinh về khối lượng và/hoặc giá thành.					
+6. If the variation value is large, submit to Management Board for consideration and approval prior to implementation.					
+    Nếu trị giá phát sinh lớn thì cần trình lên cấp trên xem xét và duyệt phát sinh trước khi thi hành.					
+7. Comply with the principle that subcontractors are only allowed to execute the work after the quotation for variation is approved 					
+    unless they are allowed by Construction Manager.					
+    Cần tuân thủ nguyên tắc là thầu phụ chỉ được phép thi công sau khi Báo giá phát sinh đã được duyệt trừ khi được phép thi công trước 					
+    từ Construction Manager.					
+8. Only approved variations are valid for payment when subcontractors submit the project balancesheet.					
+    Chỉ có các phát sinh đã được duyệt chấp thuận mới có giá trị thanh toán khi thầu phụ nộp bản quyết toán công trình. 					
+Working with Consultant & Client:					
+Làm việc với tư vấn & khách hàng:					
+1. Understand the roles, responsibilities and rights of involved parties in deciding to solve important problems of the project.					
+    Cần hiểu rõ vai trò, trách nhiệm và quyền hạn của các bên liên quan trong việc quyết định giải quyết các vấn đề quan trọng của công 					
+    trình.					
+2. Understand the process, the paperwork required by the Client, Consultant, Designer in solving problems of designing, executing, 					
+    schedule & variations.					
+    Hiểu rõ qui trình, thủ tục giấy tờ theo yêu cầu của chủ đầu tư, tư vấn, thiết kế trong việc giải quyết các vấn đề về thiết kế, thi công, 					
+    tiến độ & phát sinh.					
+3. Establish RFI (Request for Information) and send to the Client to clarify the details incomplete or unclear.					
+    Làm các RFI (Request for Information) gởi khách hàng để làm rõ các chi tiết còn thiếu hoặc chưa rõ.					
+4. Propose other solutions if the details on the drawings are unsuitable or unrealizable.					
+    Đề xuất các giải pháp khác nếu các chi tiết trong bản vẽ không phù hợp hoặc không khả thi.					
+5. Establish necessary shop drawings for approval.					
+    Lập các bản vẽ shop drawing cần thiết để duyệt với khách hàng					
+6. Establish "Materials Submission" sheet for submitting materials samples & catalogs to be approved.					
+    Làm bản “Material Submission” nộp mẫu vật liệu và catalog những mặt hàng cần phải duyệt mẫu.					
+7. Control, save all documents, working minutes with the Client, Consultant, Designer as a basis of solving arised problems in future.					
+    Quản lý, lưu trữ tất cả văn bản, biên bản làm việc với khách hàng, tư vấn, thiết kế để làm cơ sở giải quyết khi có những vấn đề 					
+     nảy sinh sau này.					
+Variations with Client:					
+Phát sinh với khách hàng:					
+1. When there is a variation required by the Client or from actual demand of the construction, notify the Client to get ideas. 					
+    Khi có phát sinh xuất phát từ yêu cầu của khách hàng hoặc do nhu cầu thực tế thi công, cần thông báo lấy ý kiến khách hàng.					
+2. If a variation is necessary, require the Client to provide VO (Variation Order) or SI (Site Instruction) to have a basis for variation 					
+    documents.					
+    Nếu phát sinh là cần thiết thì yêu cầu khách hàng cấp VO (Variation Order) hoặc SI (Site Instruction) để có căn cứ làm hồ sơ phát sinh.					
+3. It's necessary to make variation documents (additional or ommission) for each separate item for the Client to approve.					
+    Nên làm hồ sơ phát sinh (tăng hoặc giảm) cho từng hạng mục riêng lẻ để khách hàng có thể duyệt nhanh nhất.					
+4. Common variations:					
+    Các loại phát sinh thường gặp:					
+o  Additional (ommission) variations due to volume changes; unit price is available. There will be changes in the value of contract 					
+    and construction time.					
+    Phát sinh tăng (giảm) do thay đổi khối lượng; đơn giá đã có sẵn. Sẽ có thay đổi về giá trị HĐ và thời gian thi công.					
+o  Additional (ommission) variations due to changes in construction details, materials; the quantity does not change, but the unit price 					
+    changes. There will be changes in the value of the contract and construction time.					
+    Phát sinh tăng (giảm) do thay đổi chi tiết thi công, vật liệu; số lượng không thay đổi nhưng đơn giá thay đổi. Sẽ có thay đổi về giá trị 					
+    HĐ và thời gian thi công.					
+o  Additional variations due to new added items; volume & unit price need to be redefined. There will be changes in the value of the 					
+    contract and construction time.					
+    Phát sinh tăng do thêm hạng mục mới; khối lượng và đơn giá cần phải xác định mới. Sẽ có thay đổi về giá trị HĐ và thời gian thi công.					
+o  Ommission variations due to cancelling items included in the contract. If the cancellation does not cause financial losses for HTB,					
+     agree to deduct 100% value of the cancelled item. If the cancellation causes a part or the entire of financial losses for HTB, only 					
+    agree to deduct a apart or do not agree to deduct. There may be changes in the value of the contract but usually not affect to 					
+    construction time.					
+    Phát sinh giảm do hủy bỏ những hạng mục đã bao gồm trong hợp đồng. Nếu việc hủy bỏ không gây thiệt hại về tài chính cho HTB 					
+    thì chấp nhận giảm 100% giá trị hạng mục bị hủy bỏ. Nếu việc hủy bỏ gây thiệt hại về tài chính 1 phần hoặc toàn bộ cho HTB 					
+    thì chỉ chấp nhận giảm trừ 1 phần hoặc không chấp nhận giảm trừ. Có thể có thay đổi về gía trị HĐ nhưng thường không ảnh hưởng 					
+    đến thời gian thi công.					
+o  Variations exchange an item included in the contract into another item not included in the contract. This type of variation may be 					
+    regarded as a simultaneous combination of an ommission variation and an additional variation. This exchange may increase or may 					
+    not increase the value of the contract but will increase construction time because of restarting the exchanged item.					
+    Phát sinh hoán đổi hạng mục đã bao gồm trong HĐ thành 1 hạng mục khác chưa có trong HĐ. Phát sinh loại này có thể coi như  					
+    đồng thời kết hợp 1 phát sinh giảm và 1 phát sinh tăng. Việc hoán đổi này có thể có hoặc không làm tăng giá trị hợp đồng nhưng 					
+    sẽ làm tăng thời gian thi công do việc phải bắt đầu lại hạng mục bị thay đổi. 					
+o  Variations extend the schedule because of many changes in execution time, delay of the Client/Consultant/Designer in solving 					
+    the arised problems not belonged to HTB's responsibility, unexpected events exceeding HTB's control. This type of variation 					
+    usually does not affect to the value of the contract but seriously affect to the complete schedule.					
+    Phát sinh giãn tiến độ do có quá nhiều thay đổi trong thời gian thi công, do khách hàng/tư vấn/thiết kế chậm trễ trong việc giải quyết 					
+    các vấn đề nảy sinh không thuộc trách nhiệm giải quyết của HTB, do các biến cố bất khả kháng nằm ngoài khả năng kiểm soát 					
+    của HTB. Phát sinh loại này thường không ảnh hưởng tới giá trị HĐ nhưng ảnh hưởng nghiêm trọng đến tiến độ hoàn thành.					
+5. Variation documents should include: detailed volume sheet; illustrative drawings involved; variation quotation that clarifies the 					
+    additional (ommission) value numbered suitably about finance & schedule; report reasons of delaying schedule. It is necessary 					
+    to attach the copy VO (SI) of the Client for the related variation item. Attach other documents if necessary.					
+    Hồ sơ phát sinh cần có: Bảng kê khối lượng chi tiết; Bản vẽ minh họa liên quan; Báo giá phát sinh ghi rõ trị giá tăng (giảm) về tài chính 					
+    và tiến độ, có đánh số thứ tự phù hợp; Báo cáo nguyên nhân gây chậm trễ tiến độ. Cần kèm theo copy VO (SI) của khách hàng cho 					
+   hạng mục phát sinh liên quan. Có thể kèm theo các chứng từ giải trình khác nếu cần thiết.					
+6. If more time is needed to calculate exactly the variation cost, notify the Client the necessary time for quotation. If possible, make 					
+    a "Cost Estimate" sheet to estimate the total cost of variations to see whether the Client keeps the same intention before spending 					
+    all time calculating variation costs that the Client may cancel due to very high cost.					
+    Nếu cần nhiều thời gian để tính chính xác chi phí phát sinh thì cần thông báo cho khách hàng thời gian cần để báo giá. Nếu có thể					
+    được thì làm trước 1 bản “Cost estimate” ước chừng tổng chi phí phát sinh để xem khách hàng có còn giữ ý định như cũ trước khi bỏ 					
+    toàn thời gian tính toán chi phát sinh mà khách hàng có  thể hủy bỏ do chi phí quá cao.					
+7. When there is a new additional item but the volume is very small, quote the variation in lump sum. Ensure that the total variation cost  					
+    is enough for the construction with small volume.					
+    Khi có phát sinh hạng mục mới nhưng khối lượng rất nhỏ thì báo giá phát sinh theo dạng trọn gói (lump sum). Bảo đảm tổng chi phí 					
+    phát sinh phải đủ chi phí cho việc thi công với khối lượng nhỏ.					
+8. Principles for calculating variation price:					
+    Nguyên tắc tính giá phát sinh: 					
+o  Item priced in the contract: the unit price of the variation does not arise if there is no reason to prove. 					
+    Hạng mục đã có đơn giá trong HĐ: đơn giá phát sinh không được cao hơn nếu không có lý do thuyết phục chứng minh.					
+o  Item not priced in the contract: the unit price of the variation must be equivalent to similar items. Difference that increases significantly 					
+    in comparison with the equivalent item must have convincible reasons to prove.					
+    Hạng mục chưa có đơn giá trong HĐ: đơn giá phát sinh phải tương đương với đơn giá của những hạng mục tương tự. Chênh lệch  					
+    tăng đáng kể so với hạng mục tương đuong phải có lý do thuyết phục chứng minh.					
+o  Item unable to be compared with the unit prices in the contract: the unit price of the variation may be interpreted as required by the 					
+    Client. Variation price = payment costs + other related costs + common markup scale (usually from 15-30%). The Client may require 					
+    to be quoted specifically by the suppliers for comparision.					
+    Hạng mục không so sánh được với các đơn giá trong HĐ: đơn giá phát sinh phải có thể giải trình được nếu khách hàng yêu cầu. 					
+    Đơn giá phát sinh = chi phí phải trả + chi phí khác liên quan + tỉ lệ markup thông thường (từ 15-30%). Khách hàng có thể yêu cầu 					
+    báo giá cụ thể của nhà cung cấp để so sánh.					
+o  It is important to be honest and fair in calculating the volume and variation price. Absolutely avoid the case that there are large 					
+    differences about the volume or unit price due to any reasons when the Client organizes to verify.					
+    Phải trung thực và công bằng với khách hàng trong việc tính khối lượng và đơn giá phát sinh. Tuyệt đối tránh trường hợp khi khách 					
+    hàng tổ chức xác minh thì phát hiện sai biệt lớn về khối lượng hoặc đơn giá do bất cứ lý do gì.					
+9. When there are more than 3 variations in a project, make a variation summary for the Client to follow the total value of the 					
+    variation. Every new variation later will be updated on the summary and submitted to the Client with variation documents.					
+    Khi có nhiều hơn 3 phát sinh cho một công trình thì cần làm bảng tổng hợp các phát sinh để khách hàng theo dõi tổng trị giá phát sinh 					
+    theo thời gian. Cứ mỗi phát sinh mới sau đó đều được cập nhật trên Bảng theo dõi và trình cho khách hàng cùng với bộ hồ sơ phát sinh.					
+10. Put the volume, unit price into ommission variations as well as additional variations. Avoid submitting only the additionalvariations  					
+    without mentioning to the ommission variations, or balancing the ommission variations at the end of the project.					
+    Cần đưa vào các phát sinh giảm về khối lượng hoặc đơn giá song song với các phát sinh tăng. Tránh việc chỉ nộp các phát sinh tăng 					
+    mà không đề cập đến các phát sinh giảm, hoặc để đến cuối công trình mới quyết toán các phát sinh giảm.					
+11. Do not exchange different items when there are additional variations & ommission variations in differnent items at the same time 					
+    that the total variation cost is 0 or addition/ommission is not remarkable.					
+    Không được phép hoán đổi các hạng mục khác nhau khi phát sinh tăng và giảm đồng thời nhiều hạng mục khác nhau mà tổng chi phí 					
+    phát sinh bằng 0 hoặc tăng/giảm không đáng kể. Phải làm bản phát sinh tăng cho các hạng mục tăng và phát sinh giảm cho các hạng 					
+    mục giảm cho rõ ràng, tránh các vấn đề nảy sinh về sau.					
+12. Follow the principle that only deploy the work when VO quotation is approved in accordance with regulations unless permitted to 					
+    deploy by Construction Manager.					
+    Cần tuân thủ nguyên tắc là chỉ được phép triển khai thi công khi Báo giá phát sinh đã được duyệt chấp thuận đúng theo thủ tục qui 					
+    định trừ trường hợp được phép triển khai trước từ Construction Manager.					
+Working with Carpentry Workshop:					
+Làm việc với xưởng mộc:					
+1. Hold a meeting to clarify the items that Carpentry Workshop is responsible for and quantity of each item. Clearly record the 					
+    working minutes to provide for related parties and save in project documents.					
+    Tổ chức cuộc họp với Xưởng mộc để làm rõ các hạng mục Xưởng mộc phụ trách và số lượng của từng hạng mục. Phải có biên bản 					
+    làm việc rõ ràng cung cấp cho các bên liên quan và lưu hồ sơ công trình.					
+2. Provide "For Construction" drawings for Carpentry Workshop.					
+    Cung cấp bản vẽ “For Construction” cập nhật mới nhất cho xưởng mộc.					
+3. Carpentry Workshop studies the drawings and replies contradictory or unclear details to Construction Management Dept. and 					
+    Construction Manager for solving.					
+    Xưởng mộc nghiên cứu bản vẽ và phản hồi các chi tiết mâu thuẫn hoặc không rõ ràng cho Phòng quản lý thi công và Quản lý  công 					
+    trình giải quyết.					
+4. Clarify the details of sizes, colors & types of materials on the drawings. Each item needs plans, elevations, sections and details. Send 					
+    RFI to the Client to clarify the incomplete, unclear or contradictory details. Provide the result for Carpentry Workshop to  implement 					
+    the work.					
+    Làm rõ các chi tiết về kích thước, màu sắc & chủng loại vật liệu trên bản vẽ. Cần có đủ các mặt bằng, mặt đứng, mặt cắt và chi tiết					
+    cho mỗi hạng mục. Cần gởi RFI cho khách hàng để làm rõ các chi tiết thiếu sót, không rõ ràng hoặc mâu thuẫn. Cung cấp kết quả cho 					
+    Xưởng mộc để thi hành.					
+5. Organize to check & confirm the actual size between Carpentry Workshop & Construction Dept. Subcontractors involved in carpentry 					
+    like glass, inox, etc. have to be present. Provide minutes & drawings with clearly actual size for involved parties, other subcontractors 					
+    and save in project documents. Minutes & drawings must specify the applied size for each party: size of gypsum  board partition, 					
+    finished carpentry, glass, etc. The related parties are to sign in the minutes & drawings and absolutely comply with  the agreed sizes. 					
+    When a party is forced to change the size for any reasons, that party must notify the related parties in documents and receive 					
+    agreement for this change. 					
+    Tổ chức kiểm tra & xác nhận kích thước thực tế giữa Xưởng mộc và bộ phận thi công. Cần có mặt các thầu phụ có liên quan  đến 					
+    phần mộc như kiếng, inox, v.v… Phải có biên bản và bản vẽ với kích thước thực tế rõ ràng cung cấp cho các bên liên quan, các 					
+    thầu phụ khác và lưu hồ sơ công trình. Biên bản và bản vẽ phải ghi rõ kích thước áp dụng cho từng bên: kích thước vách thạch cao, 					
+    kích thước hoàn tất của phần mộc, kích thước của phần kính, v.v… Các bên có liên quan phải cùng ký tên vào biên bản và bản vẽ 					
+    và tuyệt đối tuân thủ các kích thước đã được thống nhất. Khi một bên bắt buộc phải thay đổi kích thước  vì bất cứ lý do gì thì phải thông 					
+    báo cho tất cả các bên liên quan bằng văn bản và phải nhận được văn bản trả lời đồng ý về những thay đổi này. Bên không tuân thủ 					
+    kích thước đã thống nhất sẽ phải chịu hoàn toàn trách nhiệm và chi phí phát sinh gây ra.					
+6. Clarify the delivery schedule and lists of items need delivering for each delivery period.Follow the production schedule report of 					
+    Carpentry Workshop to be active in combining delivery & installation. If there are any requirements about changing the delivery 					
+    schedule and installation schedule, notify in documents and receive agreement of Carpentry Workshop.					
+    Làm rõ tiến độ giao hàng và những danh sách những hạng mục cần giao cho từng đợt giao hàng. Theo dõi bản báo cáo tiến độ sản 					
+    xuất của xưởng mộc để chủ động trong việc phối hợp giao hàng và lắp đặt. Nếu có yêu cầu thay đổi lịch giao hàng và tiến độ lắp đặt 					
+    thì phải thông báo bằng văn bản cho xưởng mộc và nhận được văn bản đồng ý của xưởng mộc. 					
+7. Deploy shop drawings for approval with the Client and provide approved drawings for Carpentry Workshop for production. 					
+    Drawings for production must be stamped by Construction Management Dept. and signed by Construction Manager.					
+    Triển khai bản vẽ shop drawing để duyệt với khách hàng và cung cấp bản vẽ đã được duyệt cho Xưởng mộc để sản xuất. Bản vẽ 					
+    để sản xuất phải có đóng dấu của Phòng quản lý thi công và chữ ký duyệt của Quản lý công trình. 					
+8. Examine samples with the Client based on the standard samples of HTB Carpentry Workshop. Prepare more actual samples if 					
+    the standard samples are not clear enough to satisfy.					
+    Duyệt mẫu với khách hàng dựa trên bộ mẫu tiêu chuẩn của xưởng mộc HTB. Làm thêm mẫu theo thực tế nếu bảng mẫu tiêu chuẩn 					
+    không đủ rõ để đáp ứng.					
+9. After checking samples with the Client, Construction Dept. needs to sign to approve samples for Carpentry Workshop to produce. 					
+    Do not deliver the original signed samples of the Client/Designer to Carpentry Workshop to avoid missing. Samples approved by 					
+    the Client must be save in project documents for comparing later if necessary.					
+    Sau khi đã duyệt mẫu với khách hàng, bộ phận thi công cần ký duyệt mẫu cho Xưởng mộc tiến hành sản xuất. Không giao mẫu gốc 					
+    có chữ ký duyệt của khách hàng/thiêt kế cho xưởng mộc để tránh thất lạc. Những mẫu đã được khách hàng duyệt phải lưu hồ sơ 					
+    công trình để đối chiếu sau này nếu cần.					
+10. Carpentry Workshop quickly calculate the demand for materials and transfer to Construction Management Department for ordering.					
+    When there are problems with supply sources such as out of materials, not enough quantity, long time delivery, then Purchasing Dept. 					
+    and Carpentry Workshop must immediately notify the Project Manager and Construction Management Dept. to discuss the 					
+    alternatives with the Client.					
+    Xưởng mộc nhanh chóng tính toán nhu cầu về vật tư và chuyển về Phòng quản lý thi công để đặt hàng. Khi có vấn đề về nguồn cung 					
+    cấp vật tư như không có hàng, không đủ số lượng, thời gian giao hàng quá dài thì bộ phận vật tư và xưởng mộc phải báo ngay cho 					
+    Quản lý công trình và Phòng quản lý thi công để bàn với khách hàng phương án giải quyết.					
+11. Carpentry Workshop steadily reports on the production schedule to Construction Management Dept. Construction Management 					
+    Dept. transfers to Site Managers for management and coordination.					
+    Xưởng mộc báo cáo đều đặn về tiến độ sản xuất về Phòng quản lý thi công. Phòng quản lý thi công chuyển cho các Quản lý công 					
+    trường để theo dõi và phối hợp.					
+12. Include Carpentry Workshop representatives in weekly meetings with subcontractors to catch the actual schedule of the project 					
+    and arising problems affect to carpentry.					
+    Bao gồm đại diện xưởng mộc trong các cuộc họp thầu phụ hàng tuần tại công trường để nắm rõ tiến độ thi công thực tế và các vấn đề 					
+    nảy sinh ảnh hưởng đến phần mộc.					
+13. Be responsible for asking permission of using hoists and registering to transport materials with Project Manager. Carpentry Workshop 					
+    is responsible for transport materials from workshop to the project. Project Management takes over and is responsible  for preserving 					
+    the carpentry materials delivered to site.					
+    Chịu trách nhiệm xin phép sử dụng thang máy và đăng ký vận chuyển hàng với Quản lý tòa nhà. Xưởng mộc chịu trách nhiệm vận 					
+    chuyển hàng từ xưởng giao đến chân công trình. Công trường cung cấp nhân lực để hỗ trợ xưởng mộc vận chuyển hàng  lên đến vị trí 					
+    lắp đặt. Quản lý công trình nhận bàn giao và chịu trách nhiệm bảo quản hàng mộc đã giao đến công trường.					
+14. Require Carpentry Workshop to install in the region, location suitable with the overall schedule. Carpentry Workshop is not 					
+    allowed to install at regions that Construction Manager does not agree.					
+    Yêu cầu xưởng mộc lắp đặt theo khu vực, vị trí phù hợp với tiến độ chung. Xưởng mộc không được phép lắp đặt tại những khu  vực mà 					
+   Quản lý công trình chưa cho phép.					
+15. Carpentry Workshop is responsible for product quality until the end of the complete installation. Hand over the items completely 					
+    installed to the construction for preserving.					
+    Xưởng mộc chịu trách nhiệm về chất lượng sản phẩm cho đến khi lắp đặt hoàn chỉnh. Hạng mục nào đã lắp đặt hoàn chỉnh thì bàn giao 					
+    cho công trường chịu trách nhiệm bảo quản.					
+16. Other communicative principles about combining responsibilities, variations, settlements are similar when applying for subcontractors.					
+    Các nguyên tắc giao tiếp khác về phối hợp trách nhiệm, phát sinh, quyết toán đều tương tự như khi áp dụng cho các thầu phụ.					
+17. All exchanged information between Carpentry Workshop, Construction Manager & Construction Management Dept. is clearly 					
+    written to avoid confusion, unnecessary mistakes.  					
+    Tất cả trao đổi thông tin giữa Xưởng mộc, Quản lý công trình và Phòng quản lý thi công đều bằng văn bản rõ ràng đề tránh nhầm lẫn, 					
+    sai sót không đáng có.					
+Variations with Carpentry Workshop					
+Phát sinh với Xưởng mộc:					
+1. When there is a variation with Carpentry Workshop required by the Client or HTB, provide related VO for Carpentry Workshop 					
+    as a basis of calculation variation.					
+    Khi có phát sinh với Xưởng mộc do yêu cầu từ khách hàng hoặc do yêu cầu của HTB, cần cấp cho Xưởng mộc VO liên quan 					
+    để làm căn cứ báo cáo phát sinh.					
+2. VO isssued by Construction Department should specify the item, specification, quantity and required time for completion.					
+    VO do bộ phận thi công ban hành cần ghi rõ hạng mục, qui cách, số lượng và thời gian yêu cầu hoàn thành.					
+3. Carpentry Workshop & Construction Dept. should clarify the details as mentioned above relating to the newly arised items.					
+    Xưởng mộc & bộ phận thi công cần làm rõ các chi tiết như đã nêu ở phần trên liên quan đến những hạng mục mới phát sinh.					
+4. Comply to the principle that Carpentry workshop is allowed to produce only after receiving the VO clarifying the involved details, 					
+    approved samples and shop drawings for variations.					
+    Cần tuân thủ nguyên tắc là Xưởng mộc chỉ được phép sản xuất sau khi đã nhận được VO, đã làm rõ những chi tiết liên quan, đã duyệt 					
+    mẫu và bản vẽ shop drawing phát sinh.					
+5. Only variations with full documents are worth of settling the project costs.					
+    Chỉ có các phát sinh đã có hồ sơ đầy đủ mới có giá trị quyết toán chi phí công trình.					
+Construction cleaning:					
+Vệ sinh công trường:					
+1. Specify locations and ways to arrange the materials used in the construction; ensure safe, convenient traffic and construction.					
+    Qui định vị trí và cách thức xếp đặt các loại vật tư sử dụng trong quá trình thi công, bảo đảm an toàn, thuận tiện giao thông và thi công.					
+2. Specify locations for personal demands inside or outside the construction. Appoint someone to clean, dispose waste paper, wash 					
+    and deodorize daily.					
+    Qui định nơi đi tiêu, tiểu trong hoặc ngoài công trường. Cử người giữ vệ sinh, đổ bỏ giấy rác, rửa và khử mùi hôi hàng ngày.					
+3. Specify locations and means of containing rubbish during the construction. Rubbish must be moved off regularly to ensure the 					
+    construction's hygiene.					
+    Qui định nơi và phương tiện chứa rác thải trong quá trình thi công. Rác thải phải được di chuyển ra khỏi công trường thường xuyên 					
+    để bảo đảm vệ sinh công trường.					
+4. Do not smoke, eat, drink, pay cards in the project.					
+    Không được hút thuốc, ăn uống, nhậu nhẹt, đánh bài trong phạm vi công trường đang thi công.					
+5. Specify places for eating in break time between shifts that is allowed by the Owner and Client in case that there are no places for 					
+    eating outside the project.					
+    Những công trường đặc biệt không có nơi ăn uống bên ngoài thì cần qui định khu vực có thể ăn uống trong giờ nghỉ giữa ca với điều 					
+    kiện được chủ nhà và khách hàng cho phép.					
+6. Specifically assign the workers to clean the site. Keep the site tidy and clean during the execution time.					
+    Phân công cụ thể bộ phận vệ sinh công trường. Giữ cho công trường luôn gọn và sạch trong suốt thời gian thi công.					
+7. Force subcontractors to collect and dispose the rubbish in accordance with the provisions of HTB. Handle the violations strictly & 					
+    regularly.					
+    Bắt buộc các thầu phụ thu gom và đổ bỏ rác thải theo đúng qui định của HTB. Có biện pháp chế tài các vi phạm một cách kiên 					
+    quyết và thường xuyên.					
+Inspect each part during the construction proccess:					
+Nghiệm thu từng phần trong quá trình thi công:					
+1. In the construction process, organize to check & inspect preliminarily about the quality of the items executed by HTB as well 					
+    as subcontractors.					
+    Trong quá trình thi công, cần tổ chức kiểm tra & nghiệm thu sơ bộ về chất lượng thi công những hạng mục do HTB cũng như do 					
+    thầu phụ thi công. 					
+2. Prepare actual samples for difficult items and items with large volume. Check and inspect each part of samples to assess the quality, 					
+    execution time as well as the arised problems.					
+    Những hạng mục khó và khối lượng lớn thì bắt buộc phải làm mẫu thực tế. Kiểm tra và nghiệm thu phần làm mẫu để đánh giá về chất 					
+    lượng, thời gian thi công cũng như các vấn đề nảy sinh.					
+3. Upon detection of quality problems, urgently report to Management Board to hold a meeting for discussing rectification solutions. Only 					
+    continue the construction when there is an effective solution found.					
+    Khi phát hiện những vấn đề về chất lượng phải báo cáo gấp cho cấp trên, tổ chức họp bàn tìm giải pháp khắc phục. Chỉ nên tiếp tục 					
+    thi công khi đã tìm ra giải pháp hiệu quả khắc phục vấn đề.					
+4. Force subcontractors to take measures to protect the items they implement until handing over the project. The final resposibility					
+    is from HTB; therefore, although subcontractors are responsible for their items, HTB can require them to take more protection 					
+    in accordance with HTB's standards. If subcontractors do not have safe protection methods, HTB will carry out necessary 					
+    methods and deduct this cost in the payment for subcontractors.					
+    Bắt buộc thầu phụ phải có biện pháp bảo vệ các hạng mục do thầu phụ thi công cho đến khi bàn giao công trình. Trách nhiệm cuối 					
+    cùng vẫn là của HTB nên dù thầu phụ chịu trách nhiệm bảo vệ những hạng mục do họ thi công nhưng HTB có quyền yêu cầu					
+    bảo vệ thêm cho đạt tiêu chuẩn của HTB. Nếu thầu phụ không có biện pháp bảo quản an toàn thì HTB sẽ thi hành các biện pháp 					
+    cần thiết và các chi phí này sẽ trừ vào phần tiền phải thanh toán cho thầu phụ.					
+5. Coordinate with QA/QC section of Construction Management Dept. to periodically check defects prior to handing over the project. 					
+    Immediately remedy all defects and report to QA/QC section for inspection. QA/QC minutes & inspection of remedying the 					
+    project will be save with Construction Management Dept. to assess the quality of the whole project when completed.					
+    Phối hợp với bộ phận kiểm tra chất lượng của Phòng quản lý thi công để định kỳ kiểm tra các “defect” trước ngày bàn giao công trình. 					
+    Phải tổ chức sửa chữa ngay các “defect” đã phát hiện và báo cáo bộ phận kiểm tra chất lượng nghiệm thu. Biên bản kiểm tra chất 					
+    lượng & nghiệm thu sửa chữa công trình sẽ lưu với Phòng quản lý thi công để đánh giá chất lượng toàn công trình khi hoàn thành. 					
+Hand over the project:					
+Bàn giao công trình:					
+1. Clean, deodorize the entire project.					
+    Tổ chức tổng vệ sinh, khử mùi toàn công trường.					
+2. Check the defects. Make a list and assign workers to remedy.					
+    Tổ chức tự kiểm tra các defects. Lập danh mục và phân công sửa chữa cho đạt yêu cầu.					
+3. Require subcontractors to rectify the defects to match the hand-over date.					
+    Yêu cầu các thầu phụ khắc phục các defects cho kịp ngày bàn giao.					
+4. Review to see if there is any missing items incomplete. Assess the fastest time to complete all missing items.					
+    Rà soát lại xem còn thiếu những hạng mục nào chưa làm xong. Đánh giá thời hạn nhanh nhất có thể hoàn tất các hạng mục còn thiếu.					
+5. Make a list of keys for door, cabinet and clearly label. 					
+    Lập danh sách chìa khóa cửa, chìa khóa tủ. Làm móc khóa có dán nhãn rõ ràng.					
+6. Collect and make a list of small equipment, user manual, warranty sheet, technical documents to attach to project documents.					
+    Thu thập và lập danh sách tất cả các vật dụng nhỏ, các tài liệu hướng dẫn sử dụng, các phiếu bảo hành, các hồ sơ kỹ thuật để bao 					
+    gồm trong hồ sơ bàn giao công trình.					
+7. Prepare minutes, documents of settlement as required.					
+    Chuẩn bị biên bản, hồ sơ quyết toán công trình theo qui định.					
+8. Receive all arised requirements and defect list from the Client.					
+    Tiếp nhận những yêu cầu phát sinh và danh mục defects từ khách hàng. 					
+9. Plan to rectify defect list handed delivered by the Client.					
+    Lên lịch khắc phục các defects trong danh mục do khách hàng giao.					
+10. Quote variations, approve and plan to complete the arised items after handing over.					
+    Báo giá phát sinh, duyệt và lên kế hoạch hoàn tất các hạng mục phát sinh sau bàn giao.					
+11. Complete settlement documents and require payment from the Client.					
+    Hoàn tất hồ sơ quyết toán và yêu cầu thanh toán với khách hàng.					
+12. Provide Project Warranty sheet for the Client.					
+    Cấp phiếu Bảo hành công trình cho khách hàng.					
+Project report:					
+Báo cáo công trình:					
+ Maintain the following reports during the construction:					
+ Trong quá trình thi công công trình, cần duy trì các báo cáo sau:					
+1. Site daily report ( Site diary), inluding: general conditions about construction environment, volume of items executed in the day,  					
+    the number of workers present, arised problems, site instructions from the Client.					
+    Báo cáo hàng ngày tại công trường (Nhật ký công trường) gồm: tình hình chung về môi trường thi công, khối lượng các hạng mục thực 					
+    hiện trong ngày, số lượng công nhân các bên có mặt tại công trường, các vấn đề nảy sinh, các chỉ thị nhận được từ khách hàng.					
+2. Weekly collective report: samples, approved shop drawings, ordered materials, delivered materials, selected subcontractors, 					
+    completed volume of HTB and subcontractors, site instructions from the Client, approved VO, deployed VO with subcontractors, etc.					
+    Báo cáo tổng hợp hàng tuần: mẫu mã, bản vẽ đã duyệt, vật tư đã đặt hàng, vật tư đã giao, thầu phụ đã chọn, khối lượng đã 					
+    hoàn thành của HTB và các thầu phụ, các chỉ thị nhận được từ khách hàng, các phát sinh đã duyệt với khách hàng, các 					
+    phát sinh đã triển khai với thầu phụ…					
+3. General variation report with the Client is updated timely until the settlement is finished.					
+    Báo cáo tổng hợp phát sinh với khách hàng được cập nhật theo thời gian cho đến khi quyết toán xong với khách hàng.					
+4. Report on project costs: manpower, materials and subcontractors.					
+    Báo cáo chi phí thi công công trình: gồm nhân công, vật tư và thầu phụ 					
+5. Report on experience after completion of the work.					
+    Báo cáo rút kinh nghiệm sau khi đã hoàn tất công trình.					
+6. Besides, fully clearly store the meeting minutes with the Client, subcontractors, Carpentry Workshop and internal meeting, 					
+    documents sent to the Client or received from the Client. Transfer original documents to the office and save in project documents.					
+    Ngoài ra cần lưu trữ đầy đủ, rõ ràng các biên bản cuộc họp với khách hàng, với thầu phụ, với xưởng mộc và họp nội bộ, các văn bản 					
+    gởi đến khách hàng hoặc nhận từ khách hàng và chuyển toàn bộ hồ sơ bản gốc về văn phòng lưu trong hồ sơ công trình.					
+Project documents:					
+Hồ sơ công trình:					
+During and after construction, maintain Project documents fully and clearly, including standard items in cover of project documents. 					
+Notice the following items:					
+Trong và sau khi thi công cần duy trì Hồ sơ lưu công trình đầy đủ và rõ ràng, gồm tất cả các mục tiêu chuẩn trong bìa hồ sơ công trình, 					
+lưu ý các mục sau:					
+1. Item 2: Save all original letters, documents dealt with the Client.					
+    Mục 2: lưu tất cả bản gốc thư từ, văn bản giao dịch với khách hàng.					
+2. Item 3: Save all original VO (SI) from the Client, quotation documents for variations approved or not yet approved by the Client.. 					
+    Mục 3: lưu tất cả bản gốc lệnh VO (SI) từ khách hàng, hồ sơ báo giá phát sinh với khách hàng đã hoặc chưa được duyệt.					
+3. Item 5: Save all original quotations, PO, contract with subcontractors, VO quotations, settlement documents of subcontractors					
+    Mục 5: lưu tất cả bản gốc báo giá, PO, hợp đồng với thầu phụ, các lệnh và báo giá phát sinh của thầu phụ, hồ sơ quyết toáncông trình 					
+    của thầu phụ.					
+4. Item 6: Save all original minutes of weekly meetings with the Client, interal meetings or with subcontractors, minutes of working 					
+    schedule.					
+    Mục 6: lưu tất cả bản gốc biên bản cuộc họp hàng tuần với khách hàng, họp nội bộ hoặc với thầu phụ, các phiên bản tiến độ thi công.					
+5. Item 7: Save all original technical documents, shop drawings submitted to the Client.					
+    Mục 7: lưu tất cả bản gốc các tài liệu kỹ thuật, bản vẽ, shop drawings đã giao cho khách hàng.					
+6. Item 9: Original contract, quotation with the Client.					
+    Mục 9: Hợp đồng, báo giá gốc với khách hàng.					
+Forms, processes need completely studying:					
+Các biểu mẫu, qui trình cần nghiên cứu hoàn chỉnh:					
+1. Hand-over process from Tender Dept. to Construction Dept.					
+    Qui trình bàn giao từ bộ phận dự toán sang bộ phận thi công					
+2. Guiding form for studying project documents					
+    Biểu mẫu hướng dẫn nghiên cứu hồ sơ công trình					
+3. Form for requiring materials volume and delivery schedule					
+    Bảng yêu cầu khối lượng vật tư và tiến độ giao hàng					
+4. Form for requiring information from the Client (RFI)					
+    Mẫu form yêu cầu thông tin từ khách hàng (RFI)					
+5. Form for quoting VO with the Client					
+    Mẫu form báo giá phát sinh với khách hàng					
+6. Check list of necessary works when deploying the project					
+    Bảng check list các công việc cần làm khi triển khai công trình					
+7. Form for approving subcontractors					
+    Mẫu form xét duyệt thầu phụ					
+8. Site diary form					
+    Mẫu nhật ký công trình					
+9. Weekly report form					
+    Mẫu báo cáo hàng tuần					
+10. Form for project cost report					
+    Mẫu báo cáo chi phí công trình					
+11. Form of meeting minutes with subcontractor, carpentry workshop					
+    Mẫu biên bản cuộc họp với thầu phụ, xưởng mộc					
+12. VO form for subcontractors					
+    Mẫu lệnh phát sinh cho thầu phụ					
+Based on this guidelines, Construction Dept. will hold a meeting to discuss and fully revise as well as assign the work for each person 					
+in Construction Dept.					
+Dựa trên bản hướng dẫn này, bộ phận  thi công sẽ họp bàn và góp ý sửa đổi cho hoàn chỉnh cũng như phân công trách nhiệm cụ thể 					
+việc thi hành cho từng cá nhân trong bộ phận thi công. 					
