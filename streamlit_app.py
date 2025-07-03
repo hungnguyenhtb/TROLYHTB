@@ -1,10 +1,15 @@
 import streamlit as st
 from openai import OpenAI
-import os
+from pathlib import Path
+
+# Đường dẫn gốc của ứng dụng để đọc các tệp tài nguyên
+BASE_DIR = Path(__file__).resolve().parent
 
 # Hàm đọc nội dung từ file văn bản
-def rfile(name_file):
-    with open(name_file, "r", encoding="utf-8") as file:
+def rfile(name_file: str) -> str:
+    """Đọc nội dung tệp trong thư mục ứng dụng."""
+    path = BASE_DIR / name_file
+    with open(path, "r", encoding="utf-8") as file:
         return file.read()
 
 # Hiển thị logo (nếu có)
